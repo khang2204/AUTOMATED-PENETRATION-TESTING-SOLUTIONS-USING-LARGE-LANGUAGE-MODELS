@@ -1,2 +1,11 @@
-# AUTOMATED-PENETRATION-TESTING-SOLUTIONS-USING-LARGE-LANGUAGE-MODELS
-Integrates automated penetration testing with a multi-agent system to expand action capabilities and improve testing effectiveness.
+# Thông tin Nhóm
+
+## Tên đề tài  
+**Nghiên cứu giải pháp tự động hóa kiểm thử thâm nhập sử dụng mô hình ngôn ngữ lớn**
+
+## Thành viên nhóm
+
+| STT | Họ và tên               | MSSV     |
+|-----|-------------------------|----------|
+| 1   | Trần Vỹ Khang           | 22520628 |
+| 2   | Nguyễn Đặng Nguyên Khang| 22520617 |
