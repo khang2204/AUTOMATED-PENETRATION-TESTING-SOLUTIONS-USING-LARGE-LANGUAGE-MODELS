@@ -1,0 +1,17 @@
+log_verbose: true
+enable_rag: false
+mode: auto
+KB_ROOT_PATH: C:\Users\gulli\OneDrive\Documents\Tool\StudyTool\VulnBot\data\knowledge_base
+http_default_timeout: 30
+kali:
+  hostname: 192.168.196.1
+  port: 33
+  username: nkhang
+  password: nkhang
+default_bind_host: 0.0.0.0
+api_server:
+  host: localhost
+  port: 5000
+webui_server:
+  host: localhost
+  port: 8501
